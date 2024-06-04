@@ -1,3 +1,3 @@
-## Тестовое задание: frontend
+## Тестовое задание для Junior Frontend Developer
 
-[https://drive.google.com/file/d/17i3HWkCW8OdvmczEcE2p3q-ljU-2sAWz/view](https://drive.google.com/file/d/17i3HWkCW8OdvmczEcE2p3q-ljU-2sAWz/view)
+[https://github.com/ruport-digital/junior-frontend-assignment](https://github.com/ruport-digital/junior-frontend-assignment)
